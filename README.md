@@ -109,29 +109,51 @@ pdm run streamlit run app.py
 
 **Tampilan:**
 - 📸 **Split Dataset:**
-  ![Split Dataset_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/split.png)
-  ![Split Dataset_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/split.png)
+  
+  ![split](https://github.com/user-attachments/assets/024374bc-1dfb-4ab8-b40a-dca41c561b58)
+  
 - 🏗️ **Layering pada VGG16:**
-  ![Layering_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/layering.png)
-  ![Layering_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/layer_cnn.png)
+  
+  ![layer_cnn](https://github.com/user-attachments/assets/93ee9e33-0b08-4b27-afa2-6a5b8707b52a)
+
+  ![layering](https://github.com/user-attachments/assets/b3f2e301-f820-4381-83f6-943756eded3c)
+
 - 📈 **Training History:**
-  ![Training History_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/training.png)
-  ![Training History_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/train_cnn.png)
+  
+  ![training](https://github.com/user-attachments/assets/551954d4-b190-47a8-b987-e29e47e9fe35)
+
+  ![train_cnn](https://github.com/user-attachments/assets/2696396c-dabb-46f4-8374-07daa640f285)
+
 - 🔍 **Confusion Matrix:**
-  ![Confusion Matrix_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/cm.png)
-  ![Confusion Matrix_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/cm_cnn.png)
+  
+  ![cm](https://github.com/user-attachments/assets/5c046e2a-1ae8-4303-96dc-7ba4e62f3490)
+
+  ![cm_cnn](https://github.com/user-attachments/assets/3f542c5d-12cb-49a8-b25c-16ea1426b9cc)
+
 - 🧪 **Evaluasi Model:**
-  ![Evaluasi Model_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/eval.png)
-  ![Evaluasi Model_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/eval_cnn.png)
+  
+  ![eval_cnn](https://github.com/user-attachments/assets/ac897c5f-0172-48b3-9d68-4b6b60cf1a6d)
+
+  ![eval](https://github.com/user-attachments/assets/53df076f-fc68-4d14-9574-d9daf2cd7a5d)
+
 - 📊 **Visualisasi:**
-  ![Visualisasi_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/visualisas.png)
-  ![Visualisasi_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/visual_cnn.png)
+  
+  ![visualisas](https://github.com/user-attachments/assets/dd72cab1-b65f-4906-8206-b4bd38130010)
+
+  ![visual_cnn](https://github.com/user-attachments/assets/112b1634-80e6-4d52-b646-ff6fe190b364)
+
 - 📜 **Classification Report:**
-  ![Classification Report_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/cr.png)
-  ![Classification Report_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/cr_cnn.png)
+  
+  ![cr](https://github.com/user-attachments/assets/2e412b52-7b1b-4e4b-a29f-5ee6bdd8d579)
+
+  ![cr_cnn](https://github.com/user-attachments/assets/7b0e2ac7-8906-4e60-88a5-ad430b6dc303)
+
 - 💾 **Saving Model:**
-  ![Saving Model_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/saving.png)
-  ![Saving Model_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/save_cnn.png)
+  
+  ![saving](https://github.com/user-attachments/assets/27c2988a-8d21-43c8-9bc3-0ac689e66744)
+
+  ![save_cnn](https://github.com/user-attachments/assets/c4470a16-b5a5-4d03-879d-c10c6fd3eab1)
+
 
 ---
 
