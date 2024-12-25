@@ -3,7 +3,7 @@
 ---
 
 ## 🎀✨ Nama: Kens Urganis Awangsari Puttrisia Soenarto 
-## 🐾💖 NIM: 202110370311273 
+## 🐾💖 NIM: 202110370311273
 
 ---
 
