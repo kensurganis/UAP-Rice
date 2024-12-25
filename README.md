@@ -143,6 +143,4 @@ pdm run streamlit run app.py
 2. **Aplikasi Web:**
    - Aplikasi berhasil memproses dan menampilkan hasil prediksi secara real-time.
 
-> **💡 Catatan:**
-> Pastikan seluruh pustaka dan dataset telah terunduh dan terstruktur dengan baik sebelum menjalankan proyek. Happy coding! 😄
-> Model : https://drive.google.com/drive/folders/1sZSb7yVN1Pzxxr_aiDQKjRX4FRtd08qj?usp=sharing
+# **💡 Model : https://drive.google.com/drive/folders/1sZSb7yVN1Pzxxr_aiDQKjRX4FRtd08qj?usp=sharing**
