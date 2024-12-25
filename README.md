@@ -1,13 +1,13 @@
-# 🎀✨ Nama: Kens Urganis Awangsari Puttrisia Soenarto 
-# 🐾💖 NIM: 202110370311273 
-
 # 🌾 Web Deploy Streamlit : Analisis Performa CNN dengan VGG16 untuk Klasifikasi Jenis Beras
+
+## 🎀✨ Nama: Kens Urganis Awangsari Puttrisia Soenarto 
+## 🐾💖 NIM: 202110370311273 
 
 Proyek ini bertujuan untuk menciptakan  **model klasifikasi jenis beras** menggunakan **Convolutional Neural Network (CNN)** berbasis arsitektur **VGG16** dengan platform VSCode. Selain itu, proyek ini dilengkapi dengan **aplikasi web interaktif** berbasis Streamlit untuk memvisualisasikan hasil klasifikasi secara real-time.
 
 ---
 
-## 🚀 Fitur Utama
+### 🚀 Fitur Utama
 
 1. **Klasifikasi Beras:**
    - Model mendukung klasifikasi 5 jenis beras: `Basmati`, `Arborio`, `Ipsala`, `Karacadag`, dan `Jasmine`.
@@ -25,9 +25,9 @@ Proyek ini bertujuan untuk menciptakan  **model klasifikasi jenis beras** menggu
 
 ---
 
-## 📂 Struktur Proyek
+### 📂 Struktur Proyek
 
-### 1. Persiapan
+#### 1. Persiapan
 
 **Langkah-langkah awal:**
 - Buat folder proyek baru.
@@ -44,7 +44,7 @@ pip install streamlit tensorflow joblib scikit-learn
 **Buat folder tambahan:**
 - `model`: Untuk menyimpan file model hasil training.
 
-### 2. Dataset
+#### 2. Dataset
 
 - Dataset yang digunakan: [Rice Image Dataset](https://www.kaggle.com/datasets/ayanwap7/rice-image-dataset-train-test-split).
 - Struktur dataset: Folder `train` dan `test`.
@@ -52,7 +52,7 @@ pip install streamlit tensorflow joblib scikit-learn
 
 ---
 
-## 🧠 Pembuatan Model: `vgg_citra.py`
+### 🧠 Pembuatan Model: `vgg_citra.py`
 
 **Langkah-langkah utama:**
 
@@ -72,9 +72,9 @@ pip install streamlit tensorflow joblib scikit-learn
 
 ---
 
-## 🌐 Pengembangan Aplikasi Web
+### 🌐 Pengembangan Aplikasi Web
 
-### File Utama:
+#### File Utama:
 
 1. **`dashboard.py`:**
    - Menyediakan tampilan dashboard interaktif.
@@ -91,7 +91,7 @@ pdm run streamlit run app.py
 
 ---
 
-## 📊 Visualisasi & Hasil Akhir
+### 📊 Visualisasi & Hasil Akhir
 
 **Fitur visualisasi:**
 1. **Split Dataset:**
@@ -103,7 +103,7 @@ pdm run streamlit run app.py
 4. **Evaluasi Model:**
    - Confusion Matrix dan laporan klasifikasi.
 
-**Contoh Tampilan:**
+**Tampilan:**
 - 📸 **Split Dataset:**
   ![Split Dataset_VGG16](C:/Users/MSI-PC/Documents/uap/src/uap/image/split.png)
   ![Split Dataset_CNN](C:/Users/MSI-PC/Documents/uap/src/uap/image/split.png)
@@ -131,7 +131,7 @@ pdm run streamlit run app.py
 
 ---
 
-## 🏆 Hasil Akhir
+### 🏆 Hasil Akhir
 
 1. **Akurasi Model:**
    - CNN : Mencapai akurasi test sebesar **89%**.
