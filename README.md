@@ -124,12 +124,6 @@ pdm run streamlit run app.py
 
   ![train_cnn](https://github.com/user-attachments/assets/2696396c-dabb-46f4-8374-07daa640f285)
 
-- 🔍 **Confusion Matrix:**
-  
-  ![cm](https://github.com/user-attachments/assets/5c046e2a-1ae8-4303-96dc-7ba4e62f3490)
-
-  ![cm_cnn](https://github.com/user-attachments/assets/3f542c5d-12cb-49a8-b25c-16ea1426b9cc)
-
 - 🧪 **Evaluasi Model:**
   
   ![eval_cnn](https://github.com/user-attachments/assets/ac897c5f-0172-48b3-9d68-4b6b60cf1a6d)
@@ -147,6 +141,12 @@ pdm run streamlit run app.py
   ![cr](https://github.com/user-attachments/assets/2e412b52-7b1b-4e4b-a29f-5ee6bdd8d579)
 
   ![cr_cnn](https://github.com/user-attachments/assets/7b0e2ac7-8906-4e60-88a5-ad430b6dc303)
+
+- 🔍 **Confusion Matrix:**
+  
+  ![cm](https://github.com/user-attachments/assets/5c046e2a-1ae8-4303-96dc-7ba4e62f3490)
+
+  ![cm_cnn](https://github.com/user-attachments/assets/3f542c5d-12cb-49a8-b25c-16ea1426b9cc)
 
 - 💾 **Saving Model:**
   
