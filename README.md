@@ -1,5 +1,8 @@
 # 🌾 Web Deploy Streamlit : Analisis Performa CNN dengan VGG16 untuk Klasifikasi Jenis Beras
 
+Nama: Kens Urganis Awangsari Puttrisia Soenarto 🎀✨
+NIM: 202110370311273 🐾💖
+
 Proyek ini bertujuan untuk menciptakan  **model klasifikasi jenis beras** menggunakan **Convolutional Neural Network (CNN)** berbasis arsitektur **VGG16** dengan platform VSCode. Selain itu, proyek ini dilengkapi dengan **aplikasi web interaktif** berbasis Streamlit untuk memvisualisasikan hasil klasifikasi secara real-time.
 
 ---
