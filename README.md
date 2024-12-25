@@ -82,7 +82,7 @@ pip install streamlit tensorflow joblib scikit-learn
 
 **Menjalankan aplikasi:**
 ```bash
-cd src/uap
+cd src/uap_ml
 pdm run streamlit run app.py
 ```
 
